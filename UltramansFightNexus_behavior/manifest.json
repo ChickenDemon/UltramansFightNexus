@@ -1,0 +1,30 @@
+{
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "81bfaba3-ad94-44d4-a5df-4184e0575abd",
+      "version": [
+        0,
+        0,
+        1
+      ],
+      "description": "银河格斗 · 奈克瑟斯"
+    }
+  ],
+  "header": {
+    "uuid": "e988d6cd-764e-4dea-b77f-730bee0c05ab",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "description": "银河格斗 · 奈克瑟斯",
+    "name": "UltramansFightNexus_behavior",
+    "min_engine_version": [
+      1,
+      18,
+      0
+    ]
+  },
+  "format_version": 2
+}

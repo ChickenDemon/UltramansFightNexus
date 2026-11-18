@@ -1,0 +1,27 @@
+{
+  "namespace": "nexusUI",
+  "nexusUI": {
+    "controls": [
+      {
+        "skills": {
+          "layer": 1,
+          "size": [
+            "100%+0px",
+            "100%+0px"
+          ],
+          "type": "panel"
+        }
+      },
+      {
+        "screenPanel": {
+          "size": [
+            "100%+0px",
+            "100%+0px"
+          ],
+          "type": "panel"
+        }
+      }
+    ],
+    "type": "screen"
+  }
+}

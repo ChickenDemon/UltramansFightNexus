@@ -1,0 +1,30 @@
+{
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "7648882a-ee5c-4c23-ab39-30d55a6b93f5",
+      "version": [
+        0,
+        0,
+        1
+      ],
+      "description": "银河格斗 · 奈克瑟斯"
+    }
+  ],
+  "header": {
+    "uuid": "7689cf87-15b2-40c6-a100-d6ee7b2ef60b",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "description": "银河格斗 · 奈克瑟斯",
+    "name": "UltramansFightNexus_resource",
+    "min_engine_version": [
+      1,
+      18,
+      0
+    ]
+  },
+  "format_version": 2
+}
